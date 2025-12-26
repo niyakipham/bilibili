@@ -3,7 +3,7 @@
 # SHARE TÀI NGUYÊN THIẾT KẾ BILIBLI 
 
 
-![Bilibili Banner]([ic_zone_background.webp](https://raw.githubusercontent.com/niyakipham/bilibili/refs/heads/main/icon/ic_avatar2.jpg))
+![Bilibili Banner]([ic_zone_background.webp](/icon/ic_avatar5.jpg))
 
 [![My Profile](https://img.shields.io/badge/Author-NiyakiPham-blueviolet?style=for-the-badge&logo=github)](https://github.com/niyakipham)
 [![Assets](https://img.shields.io/badge/Resources-2D%20%26%203D-ff69b4?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/)
