@@ -7,7 +7,6 @@
 
 [![My Profile](https://img.shields.io/badge/Author-NiyakiPham-blueviolet?style=for-the-badge&logo=github)](https://github.com/niyakipham)
 [![Assets](https://img.shields.io/badge/Resources-2D%20%26%203D-ff69b4?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/)
-[![License](https://img.shields.io/badge/License-Fair%20Use-success?style=for-the-badge)](https://github.com/niyakipham/bilibili/)
 
 <br/>
 
