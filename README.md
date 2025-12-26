@@ -1,9 +1,9 @@
 <div align="center">
 
 # SHARE TÀI NGUYÊN THIẾT KẾ BILIBLI 
+### Tài nguyên vẫn đang được cập nhật
 
-
-![Bilibili Banner]([/icon/ic_avatar5.jpg)](/icon/ic_avatar5.jpg))
+![Bilibili Banner](https://raw.githubusercontent.com/niyakipham/bilibili/refs/heads/main/icon/ic_avatar2.jpg)
 
 [![My Profile](https://img.shields.io/badge/Author-NiyakiPham-blueviolet?style=for-the-badge&logo=github)](https://github.com/niyakipham)
 [![Assets](https://img.shields.io/badge/Resources-2D%20%26%203D-ff69b4?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/)
