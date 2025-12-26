@@ -1,7 +1,7 @@
 <div align="center">
 
-# ✨ SHARE TÀI NGUYÊN THIẾT KẾ BILIBLI ✨
-### (BILIBILI DESIGN RESOURCES COLLECTION)
+# SHARE TÀI NGUYÊN THIẾT KẾ BILIBLI 
+
 
 ![Bilibili Banner]([ic_zone_background.webp](https://raw.githubusercontent.com/niyakipham/bilibili/refs/heads/main/icon/ic_avatar2.jpg))
 
